@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+.churras{
+    width: 734;
+    height: 480;
+    background-color: #421111;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.churras-sub{
+    width: 650px;
+}
+.churras-img img{
+    width: 654px;
+    height: 437px;
+    border-radius: 20px;
+}
+.churras h2{
+    display: flex;
+    justify-content: center;
+}
+.churras-text h2{
+    font-family: "Karla", sans-serif;
+    color: #fff;
+    transition: linear 0.75s 0.0001s;
+}
+.churras-text h2:hover{
+    color: #b42e2e;
+}
+.churras-sub h4{
+    font-family: "Karla", sans-serif;
+    color: #fff;
+    transition: linear 0.75s 0.0001s;
+}
+.churras-sub h4:hover{
+    color: #b42e2e;
+}
